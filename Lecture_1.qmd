@@ -252,7 +252,8 @@ But is the article itself OK? It was published in PLoS One, which is a reasonabl
 :::
 
 ::: notes
-Has published 3000 scientific articles. Cultivates politicians & created his own research institute. Announced the results of this study in a YouTube video. Trial was not double-blind, participants dropped out, impossible to interpret result. 
+Has published 3000 scientific articles. Cultivates politicians & created his own research institute. Announced the results of this study in a YouTube video. Trial was not double-blind, participants dropped out, impossible to interpret result.
+Note: Update with more recent example? 
 :::
 
 # Practical section (stats demos and resources)
