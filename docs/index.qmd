@@ -13,6 +13,12 @@ format:
 editor: source
 ---
 
+## Slides are open source
+
+[Link for the HTML version](https://deborahapthorp.github.io/Lecture-1/) of these slides (always up to date)
+
+![](images/QRcode_L1.png){fig-align="center"}
+
 ## Outline
 
 -   1.1: Things you need to know about PSYC422 (an incomplete list)
