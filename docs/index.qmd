@@ -1,0 +1,318 @@
+---
+title: "PSYC 422 Lecture 1"
+subtitle: "A/Prof. Deborah Apthorp"
+format: 
+  revealjs: 
+    theme: sky
+    incremental: true
+    preview-links: auto
+    slide-number: true
+    logo: images/UNE_logo.png
+    css: logo.css
+    pdf-max-pages-per-slide: 1
+editor: source
+---
+
+## Outline
+
+-   1.1: Things you need to know about PSYC422 (an incomplete list)
+-   1.2: Psychology as a science - what characteristics of science are important?
+  -   How is Psychology doing on those?
+  -   Pseudoscience - how to spot it
+-  1.3: Practical stats section:
+    -   Resources
+    -   Intro to jamovi and brief demo on my own data
+
+## Assessments
+
+- Online Quiz component - 20% (3 knowledge (m/c and short answer), 3 stats, mark = best 5). 
+- Discussion Board posts - 10% (about 1500 words, responses to prompts through trimester, min = 5 posts)
+- Written assignment - critical thinking blog post - 30% (scaffolding workshop at Intensive)
+- Final Exam - 40% (multiple choice and short answer, online)
+
+## Readings etc.
+
+- These are on the [Unit Guide](https://moodle.une.edu.au/mod/book/view.php?id=2595902) (**please read it before posting any questions on Moodle**) and also set out in each Topic
+- Textbook: [Research Methods in Psychology (4th American Edition)](https://kpu.pressbooks.pub/psychmethods4e/) (open textbook) 
+- Specific chapter readings are set out for each week
+- There will also be other weekly readings from various sources
+
+::: notes
+Add link for unit guide
+:::
+
+## Intensive school - April 2023
+
+- Held online from 21st - 22nd April (mandatory)
+- Concurrent with PSYC 421 
+- There are NO ASSESSMENTS AT INTENSIVE! 
+- Also no formal lectures - set of interactive workshops and tutorials 
+- Includes “scaffolding” workshops for assignment. 
+
+::: notes
+Update dates here 
+:::
+
+## What's new this year {.smaller}
+
+- New edition of open textbook (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
+- “Flipped classroom” model for Intensive School (no lectures)
+- All quizzes online, best 5 count
+- Half knowledge, half stats
+- You don’t need SPSS though! ([jamovi](https://www.jamovi.org/) is fine - you’ll pick it up quickly, very similar and free)
+- There are a whole set of H5P learning modules for jamovi on [Moodle](https://moodle.une.edu.au/course/view.php?id=26434&section=2) if you want them! (in the Resources section)
+
+::: notes
+Should update this slide
+:::
+
+## Science makes systematic observations 
+### Does Psychology? 
+
+- Similar to knowing things from experience, but more systematic
+- Including:
+  - Precise definitions
+  - Reliable and valid measuring tools
+  - Generally accepted methodologies
+  - A system of logic for drawing conclusions
+  
+::: notes
+Science also bases its findings on observations, but they are made much more systematically than our everyday observations.
+
+The scientist’s systematic observations include using:
+
+- Precise definitions of the phenomena being measured
+- Reliable and valid measuring tools that yield useful and interpretable data
+- Generally accepted research methodologies
+- A system of logic for drawing conclusions and fitting those conclusions into general theories.
+:::
+
+## Science produces public knowledge
+### Does Psychology? 
+
+- The objective scientist was believed to be almost machine‐like in the search for truth.
+- In science this usually takes the form of defining terms and research procedures precisely enough so any other person can systematically repeat the study, presumably achieving the same observable outcome.
+- Objectivity in psychological science has been a problem historically.
+
+::: notes
+This is the idealistic view that your textbook sets out. 
+Objectivity - You’re not kidding! We’re going to go into this in a LOT more detail in this course. This second point, in particular, is a doozy. Most published papers, for a start, are currently NOT publicly available, and do NOT contain precise enough descriptions that any other person can repeat the study. This has resulted in what we now call the Replication Crisis in Psychology, and you’re going to hear all about that in my next lecture. 
+:::
+
+## Science produces tentative conclusions{.smaller}
+### Does Psychology?
+
+- Related to the data‐driven attitude that characterises researchers is the recognition that conclusions drawn from data are always tentative and subject to revision based on future research.
+
+- The tentative nature of scientific research is a feature of scientific thinking that is often difficult for the general public to understand; people seem to believe the outcome of well‐executed scientific research will be the authoritative and the final answer to some question.
+
+::: notes
+Also a doozy of naivety here. 
+Slide is too wordy - revise 
+:::
+
+## BUT: James Heathers tweet
+
+![](images/heathers_tweet.png)
+[And a related thread here...](https://twitter.com/jamesheathers/status/1101161833514393600?s=20)
+
+
+## Science asks answerable questions 
+### Does psychology? 
+
+> Empirical questions can be answered through the systematic observations and techniques that characterise scientific methodology.
+
+## Science has theories that can be falsified 
+### Does psychology? 
+
+- Empirical question -> hypothesis
+- A good theory must be precise enough to be disproven
+- *Falsification*
+
+::: notes
+- When designing research studies, an early step in the process is to reshape the empirical question into a hypothesis, which is a prediction about the study’s outcome.
+- A critically important attribute of a good theory is that it must be precise enough so it can be disproven, at least in principle.
+- This concept is often referred to as falsification.
+::: 
+
+## {#the-difference data-menu-title="The difference"}
+
+![](images/the_difference.png "The Difference (XKCD)"){fig-align="center"}
+
+## BUT: HARKing
+
+::: columns
+::: {.column width="60%"}
+- “Hypothesising After Results are Known”
+- Why is this a bad thing? 
+- The [Texas Sharpshooter Fallacy](https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy) (see also [this post](https://www.bayesianspectacles.org/origin-of-the-texas-sharpshooter/))
+- Increases risk of Type I error (false positives)
+- Original article (Kerr, 1998!)
+:::
+
+::: {.fragment .column width="40%"}
+
+![](images/TexasSharpshooter.png){.absolute top="90" right="20" width="350" height="350"}
+:::
+:::
+
+::: notes
+Remember to link article PDF to current moodle site. 
+
+One of the problems when we try to draw understanding from published papers is the practice of HARKing (Hypothesising After Results are Known). This is what happens when you collect a bunch of data, then look for patterns within the data and then write your introduction as if you had predicted those results all along! (Of course there’s nothing wrong with exploratory analysis of your data, as long as you’re very clear that that’s what you are doing.) This is like the legendary Texas Sharpshooter who sprays bullets randomly at a fence and then draws targets around the bullet holes. Sadly, you will sometimes see this practice encouraged even today (for instance, in the Bem article that is often given as an example of how to write a paper). We’ll be talking more about Daryl Bem later in the course. 
+:::
+
+## Also but: 
+### Does psychology have good theories? 
+
+- Psychology has long been criticised for being weak on theory
+- See, for instance, Muthukrishna, M, and J Henrich. “A problem in theory.” Nature Human Behavior (2019).
+- A really good Twitter thread on this topic - see below
+- [Eiko Fried on Twitter](https://twitter.com/EikoFried/status/1234459788744052736?s=20)
+
+::: notes
+So thinking back to our previous slide, the hypothesis or hypotheses you have formed should have arisen from good theories. But does psychology really have strong theories? Sometimes it has been criticised for finding effects rather than forming theories. I found a really good thread about this on Twitter this morning - here’s a link if you want to follow it. But this is a bit of a distraction from my main point here, which is about the falsifiability of your theory or, more narrowly, your hypothesis. 
+::: 
+
+## Recognising pseudoscience
+### We can, right? 
+
+::: columns
+::: {.column width="60%"}
+- Associates with true science
+- Reliance on anecdotal evidence
+- Sidesteps the falsification requirement
+- Reduces complex phenomena to simplistic concepts
+:::
+
+::: {.fragment .column width="40%"}
+![](images/snakeoil.jpeg){fig-align="right"}
+:::
+:::
+
+::: notes
+But getting back some of the content from your textbook. How can we recognise pseudoscience in everyday life? A lot of you have been already posting some great examples on the Discussion board for this week and I’m greatly enjoying them. 
+[NOTE: UPDATE WITH THIS YEAR'S POSTS]
+Reiki, energy healing, the dangers of 5G and COVID-19 vaccinations, are just a few we’ve seen, as well as some examples of good science reporting, which is really nice to see. Another more impressive example that came up last year is the rise and fall of Theranos, a very impressive and sciencey-sounding tech startup that turned out to be based on an idea that was pure pseudoscience. 
+:::
+
+
+## Recognising pseudoscience
+### We can, right? 
+
+- People in the late nineteenth century could send away to the New York firm of Fowler and Wells for a ‘Symbolic Head and Phrenological Map’ for 10 cents. 
+- For another $1.25, the head and map would be accompanied by a copy of *How to Read Character: A New Illustrated Handbook of Phrenology and Physiognomy.*
+- Of course, we don’t believe that sort of thing any more - do we? 
+
+## Science vs. pseudoscience{.smaller}
+
+::: {layout-ncol=2}
+:::{}
+![](images/phrenology_bust_L.N._Fowler_c._1870.jpg){.fragment width="310" height="580"}
+:::
+
+::: {.fragment}
+!["How Brain Scans Can Diagnose Autism with 97% Accuracy!" (TIME Magazine)](images/brain-scan-fmri-mri.jpg){.fragment width="480" height="535"}
+:::
+:::
+
+::: notes
+Here’s a replica of that bust you could buy for 10 cents. Lots of psychology academics like to keep one of these in their office, perhaps as a reminder of the foolishness of past times. But are we really less gullible now, even as psychologists? Here’s a nice little article from Time magazine covering a fairly recent paper about the use of machine learning to diagnose autism. I did a reverse image search on the image they used to illustrate this article - it isn’t an image from the article, nor is it even an image from an fMRI study at all (which I happen to know because I’ve done some fMRI). In fact it’s a stock photo from the science photo library which seems to be used to illustrate almost any article about something with brains in it, which you’ll discover if you do the reverse image search yourself. 
+:::
+
+## Papers & criticism
+
+- [Article in Time Magazine](https://time.com/3614487/fmri-autism-diagnosis/)
+- [Original article in PLoS One](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4251975/)
+- [Another paper about machine learning and autism](https://www.nature.com/articles/nature21369)
+- [A thoughtful critical piece by Jon Brock](https://www.theguardian.com/science/head-quarters/2017/feb/23/autism-diagnosis-by-brain-scan-its-time-for-a-reality-check)
+- What do you think? 
+
+::: notes
+But is the article itself OK? It was published in PLoS One, which is a reasonable open access journal (disclosure: I’m an editor there), although it has published a few sketchy things from time to time. It was published in 2014, and the first thing I’d like to say is that machine learning from fMRI data has moved on quite a lot since then - it’s a field that moves pretty quickly. The small sample size would lead me to be cautious of overfitting (the accuracy of 97% seems too high) in this instance, and in the links here you can see some thoughtful criticism of this type of study. See what you think! But the headline is definitely very sensationalist. 
+:::
+
+## A more recent example
+
+::: columns
+::: {column-width="40%"}
+- Hydroxychloroquine anyone? 
+- Slate article [here](https://slate.com/news-and-politics/2020/03/didier-raoult-hydroxychloroquine-plaquenil.html)
+- Pubpeer commentary [here](https://pubpeer.com/publications/B4044A446F35DF81789F6F20F8E0EE)
+- And [here](https://pubpeer.com/publications/E09AC9D25125B0AB077971FBA6DD7B?utm_source=Chrome&utm_medium=BrowserExtension&utm_campaign=Chrome) (on published version)
+- Later RCTs showed it was ineffective
+- But damage had been done
+:::
+::: {column-width="60%"}
+::: {.fragment .fade-in}
+![](images/didier-raoult2.jpeg){.absolute top="90" right="20" width="375" height="250"}
+:::
+:::
+
+:::
+
+::: notes
+Has published 3000 scientific articles. Cultivates politicians & created his own research institute. Announced the results of this study in a YouTube video. Trial was not double-blind, participants dropped out, impossible to interpret result.
+Note: Update with more recent example? 
+:::
+
+# Practical section (stats demos and resources)
+
+## FREE alternatives to SPSS
+
+- [jamovi](https://www.jamovi.org/) (good for parametric and non-parametric stats - lots of add-ons including moderation/mediation - based on R)
+- [JASP](https://jasp-stats.org/) (good for Bayesian statistics)
+- [Posit (formerly R Studio)](https://posit.co/) (very powerful & flexible, fairly steep learning curve, great plots)
+- [PSPP](https://www.gnu.org/software/pspp/) - most SPSS-like but clunky
+
+:::{.notes}
+- Update R Studio link to latest
+- include logos? 
+:::
+
+## Learning resources 
+### All free! 
+
+- Fantastic [FREE book](https://www.learnstatswithjamovi.com/) by Danielle Navarro about learning statistics with jamovi (more in here than just jamovi - some great info about stats and research methods)
+- Online [FREE course](https://datalab.cc/tools/jamovi) on jamovi with video tutorials (by datalab)
+- For SPSS - YouTube is great! 
+- [Statistics of DOOM](https://www.youtube.com/channel/UCMdihazndR0f9XBoSXWqnYg) YouTube Channel (thanks Bernie!)
+
+## Stats demo example {.smaller}
+### (from my own data)
+
+::: {layout-ncol=2}
+::: {.fragment .fade-in}
+![Force plate for measuring postural sway](images/balance2.jpeg)
+:::
+::: {.fragment .fade-in}
+![Sway occurs in the mediolateral (ML) and antero-posterior (AP) directions](images/sway.png)
+
+:::
+:::
+
+## Stats demo example{.smaller}
+### (from my own data)
+- Force plate measures Centre of Pressure (CoP) as it moves about the centre of balance
+- People generally sway more with eyes closed than open
+
+![](images/SwayAnimation_12002_EOOBCOP.gif){.fragment .fade-in}
+![](images/SwayAnimation_12002_ECCBCOP.gif){.fragment .fade-in}
+
+::: notes
+Why not include the animated plots here??? 
+:::
+
+# Demo: Intro to jamovi
+
+# Demo: Filtering in jamovi
+
+# Demo: Eyes open vs. closed 
+
+# Demo: Is our sample different to the population? 
+
+# Demo: Comparing two groups 
+
+# Demo: Correlations and scatter plots 
+
+# Questions? Ask on Moodle!{background-color="black" background-image="images/sunset.png"}
