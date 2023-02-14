@@ -152,7 +152,7 @@ Slide is too wordy - revise
 
 ::: {.fragment .column width="40%"}
 
-![](images/TexasSharpshooter.png)
+![](images/TexasSharpshooter.png){fig-align="right"}
 :::
 :::
 
