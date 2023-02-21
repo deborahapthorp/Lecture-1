@@ -29,7 +29,7 @@ editor: source
     -   Resources
     -   Intro to jamovi and brief demo on my own data
     
-# Things you need to know about PYSC422
+# Things you need to know about PYSC422{background-color="black" background-image="images/lookingglass2.png"}
 
 ## Assessments
 
@@ -75,9 +75,9 @@ Update dates here
 Should update this slide
 :::
 
-# My teaching philosophy
+# My teaching philosophy{background-color="black" background-image="images/sailing.png"}
 
-# Psychology as a science
+# Psychology as a science{background-color="black" background-image="images/lookingglass1.png"}
 
 ## Science makes systematic observations 
 ### Does Psychology? 
@@ -179,7 +179,7 @@ One of the problems when we try to draw understanding from published papers is t
 ### Does psychology have good theories? 
 
 - Psychology has long been criticised for being weak on theory
-- See, for instance, Muthukrishna, M, and J Henrich. “(A problem in theory)[https://www.nature.com/articles/s41562-018-0522-1.epdf?author_access_token=UNn5NfKkdenX2XOtRn-a89RgN0jAjWel9jnR3ZoTv0PR1n9_3i-MM3VzdUMeSGjuHL3rzkkW8mnQZYKonzAh5oUPDZHAQYa3tsgkHBp3QPi2x94zvRmVSupO1uif43JYttNHav4CunuTrACnWXGjIw==].” Nature Human Behavior (2019).
+- See, for instance, Muthukrishna, M, and J Henrich. “[A problem in theory](https://www.nature.com/articles/s41562-018-0522-1.epdf?author_access_token=UNn5NfKkdenX2XOtRn-a89RgN0jAjWel9jnR3ZoTv0PR1n9_3i-MM3VzdUMeSGjuHL3rzkkW8mnQZYKonzAh5oUPDZHAQYa3tsgkHBp3QPi2x94zvRmVSupO1uif43JYttNHav4CunuTrACnWXGjIw==).” Nature Human Behavior (2019).
 - A really good Twitter thread on this topic - see below
 - [Eiko Fried on Twitter](https://twitter.com/EikoFried/status/1234459788744052736?s=20)
 
@@ -279,7 +279,7 @@ be fraudulent (see [Health Nerd](https://twitter.com/GidMK) on Twitter for more 
 - [Meta-analysis](https://www.researchsquare.com/article/rs-148845/v1) looked good at first
 - But garbage in, garbage out - later retracted.
 
-# Practical section (stats demos and resources)
+# Practical section (stats demos and resources){background-color="black" background-image="images/river.png"}
 
 ## FREE alternatives to SPSS
 
