@@ -28,6 +28,8 @@ editor: source
 -  1.3: Practical stats section:
     -   Resources
     -   Intro to jamovi and brief demo on my own data
+    
+# Things you need to know about PYSC422
 
 ## Assessments
 
@@ -39,17 +41,18 @@ editor: source
 ## Readings etc.
 
 - These are on the [Unit Guide](https://moodle.une.edu.au/mod/book/view.php?id=2595902) (**please read it before posting any questions on Moodle**) and also set out in each Topic
-- Textbook: [Research Methods in Psychology (4th American Edition)](https://kpu.pressbooks.pub/psychmethods4e/) (open textbook) 
+- Textbook: [Research Methods in Psychology (4th Edition)](https://kpu.pressbooks.pub/psychmethods4e/) (open textbook) 
 - Specific chapter readings are set out for each week
 - There will also be other weekly readings from various sources
+- Just released & recommended - excellent book [A Student's Guide to Open Science](https://www.amazon.com.au/Students-Guide-Open-Science/dp/0335251161)
 
 ::: notes
-Add link for unit guide
+
 :::
 
 ## Intensive school - April 2023
 
-- Held online from 21st - 22nd April (mandatory)
+- Held online from 21st - 22nd April (**mandatory**)
 - Concurrent with PSYC 421 
 - There are NO ASSESSMENTS AT INTENSIVE! 
 - Also no formal lectures - set of interactive workshops and tutorials 
@@ -59,11 +62,11 @@ Add link for unit guide
 Update dates here 
 :::
 
-## What's new this year {.smaller}
+## Things to note (2023) {.smaller}
 
 - New edition of open textbook (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
 - “Flipped classroom” model for Intensive School (no lectures)
-- All quizzes online, best 5 count
+- All quizzes online, **best 5** count
 - Half knowledge, half stats
 - You don’t need SPSS though! ([jamovi](https://www.jamovi.org/) is fine - you’ll pick it up quickly, very similar and free)
 - There are a whole set of H5P learning modules for jamovi on [Moodle](https://moodle.une.edu.au/course/view.php?id=26434&section=2) if you want them! (in the Resources section)
@@ -71,6 +74,10 @@ Update dates here
 ::: notes
 Should update this slide
 :::
+
+# My teaching philosophy
+
+# Psychology as a science
 
 ## Science makes systematic observations 
 ### Does Psychology? 
@@ -131,9 +138,9 @@ Slide is too wordy - revise
 ## Science has theories that can be falsified 
 ### Does psychology? 
 
-- Empirical question -> hypothesis
-- A good theory must be precise enough to be disproven
-- *Falsification*
+- Empirical question -> hypothesis (prediction about outcome)
+- A good theory must be precise to be disproven, at least in principle.
+- This concept is often referred to as **falsification**.
 
 ::: notes
 - When designing research studies, an early step in the process is to reshape the empirical question into a hypothesis, which is a prediction about the study’s outcome.
@@ -172,7 +179,7 @@ One of the problems when we try to draw understanding from published papers is t
 ### Does psychology have good theories? 
 
 - Psychology has long been criticised for being weak on theory
-- See, for instance, Muthukrishna, M, and J Henrich. “A problem in theory.” Nature Human Behavior (2019).
+- See, for instance, Muthukrishna, M, and J Henrich. “(A problem in theory)[https://www.nature.com/articles/s41562-018-0522-1.epdf?author_access_token=UNn5NfKkdenX2XOtRn-a89RgN0jAjWel9jnR3ZoTv0PR1n9_3i-MM3VzdUMeSGjuHL3rzkkW8mnQZYKonzAh5oUPDZHAQYa3tsgkHBp3QPi2x94zvRmVSupO1uif43JYttNHav4CunuTrACnWXGjIw==].” Nature Human Behavior (2019).
 - A really good Twitter thread on this topic - see below
 - [Eiko Fried on Twitter](https://twitter.com/EikoFried/status/1234459788744052736?s=20)
 
@@ -217,8 +224,8 @@ Reiki, energy healing, the dangers of 5G and COVID-19 vaccinations, are just a f
 ![](images/phrenology_bust_L.N._Fowler_c._1870.jpg){.fragment width="310" height="580"}
 :::
 
-::: {.fragment}
-!["How Brain Scans Can Diagnose Autism with 97% Accuracy!" (TIME Magazine)](images/brain-scan-fmri-mri.jpg){.fragment width="480" height="535"}
+::: {}
+![](images/brain-scan-screenshot.png){.fragment width="500" height="800"}
 :::
 :::
 
@@ -261,6 +268,16 @@ But is the article itself OK? It was published in PLoS One, which is a reasonabl
 Has published 3000 scientific articles. Cultivates politicians & created his own research institute. Announced the results of this study in a YouTube video. Trial was not double-blind, participants dropped out, impossible to interpret result.
 Note: Update with more recent example? 
 :::
+
+## Another example: Ivermectin
+
+- A good example of how misinformation spreads
+- Desperation (pre-vaccine) led people to try many things
+- A good article [here](https://www.sciencefriday.com/segments/ivermectin-misinformation/) about the Ivermectin story
+- Many studies including clinical trials, but some larger studies later shown to
+be fraudulent (see [Health Nerd](https://twitter.com/GidMK) on Twitter for more details)
+- [Meta-analysis](https://www.researchsquare.com/article/rs-148845/v1) looked good at first
+- But garbage in, garbage out - later retracted.
 
 # Practical section (stats demos and resources)
 
@@ -309,15 +326,28 @@ Note: Update with more recent example?
 Why not include the animated plots here??? 
 :::
 
-# Demo: Intro to jamovi
+## Research on motor control in Parkinson’s disease{.smaller}
 
-# Demo: Filtering in jamovi
+- Parkinson’s disease affects brain structures also implicated in postural control (cerebellum, brainstem, basal ganglia)
+- Postural control is known to be affected (increased sway) in PD
+- Our group is interested in tracking this across time to see if if can be a useful measure of disease progression
+- We also measure cognitive functioning and use some more traditional clinical tests
+
+## Paper - now published in BMJ Neurology Open
+
+- Apthorp, D., Smith, A., Ilschner, S., Vlieger, R., Das, C., Lueck, C. J., & Looi, J.
+C. L. (2020). Postural sway correlates with cognition and quality of life in
+Parkinson’s disease. BMJ Neurology Open, 2(2), e000086. [https://doi.org/10.1136/bmjno-2020-000086](https://doi.org/10.1136/bmjno-2020-000086)
+- Data and code all available [here](https://figshare.com/articles/dataset/Postural_sway_correlates_with_cognition_and_quality_of_life_in_Parkinson_s_Disease_Data_and_R_Markdown_Code/7716614)
+- We’re going to use a slightly reduced version of the dataset to do some demos in jamovi - I’ll put that dataset up on Moodle
+
+# Demo: Intro to jamovi
 
 # Demo: Eyes open vs. closed 
 
-# Demo: Is our sample different to the population? 
-
 # Demo: Comparing two groups 
+
+# Demo: Filtering in jamovi
 
 # Demo: Correlations and scatter plots 
 
