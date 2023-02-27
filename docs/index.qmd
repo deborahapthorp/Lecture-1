@@ -64,7 +64,7 @@ Update dates here
 
 ## Things to note (2023) {.smaller}
 
-- New edition of open textbook (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
+- New edition of [open textbook](https://kpu.pressbooks.pub/psychmethods4e/) (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
 - “Flipped classroom” model for Intensive School (no lectures)
 - All quizzes online, **best 5** count
 - Half knowledge, half stats
@@ -112,12 +112,14 @@ This is the idealistic view that your textbook sets out.
 Objectivity - You’re not kidding! We’re going to go into this in a LOT more detail in this course. This second point, in particular, is a doozy. Most published papers, for a start, are currently NOT publicly available, and do NOT contain precise enough descriptions that any other person can repeat the study. This has resulted in what we now call the Replication Crisis in Psychology, and you’re going to hear all about that in my next lecture. 
 :::
 
-## Science produces tentative conclusions{.smaller}
+## Science produces tentative conclusions
 ### Does Psychology?
 
-- Related to the data‐driven attitude that characterises researchers is the recognition that conclusions drawn from data are always tentative and subject to revision based on future research.
+- Related to data‐driven attitude: recognition that conclusions drawn from data are always tentative & subject to revision based on future research.
 
-- The tentative nature of scientific research is a feature of scientific thinking that is often difficult for the general public to understand; people seem to believe the outcome of well‐executed scientific research will be the authoritative and the final answer to some question.
+- Tentative nature of scientific research often difficult for general public
+
+- People seem to believe outcomes of well‐executed research will be the authoritative & the "final answer"
 
 ::: notes
 Also a doozy of naivety here. 
@@ -160,7 +162,7 @@ Slide is too wordy - revise
 - Why is this a bad thing? 
 - The [Texas Sharpshooter Fallacy](https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy) (see also [this post](https://www.bayesianspectacles.org/origin-of-the-texas-sharpshooter/))
 - Increases risk of Type I error (false positives)
-- Original article (Kerr, 1998!)
+- [Original article](https://moodle.une.edu.au/mod/resource/view.php?id=2592116) (Kerr, 1998!)
 :::
 
 ::: {.fragment .column width="40%"}
