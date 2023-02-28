@@ -23,8 +23,8 @@ editor: source
 
 -   1.1: Things you need to know about PSYC422 (an incomplete list)
 -   1.2: Psychology as a science - what characteristics of science are important?
-  -   How is Psychology doing on those?
-  -   Pseudoscience - how to spot it
+    -   How is Psychology doing on those?
+    -   Pseudoscience - how to spot it
 -  1.3: Practical stats section:
     -   Resources
     -   Intro to jamovi and brief demo on my own data
