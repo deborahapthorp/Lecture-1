@@ -63,7 +63,8 @@ Update dates here
 
 ## Things to note (2024) {.smaller}
 
--   New edition of [open textbook](https://kpu.pressbooks.pub/psychmethods4e/) (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
+-   Make sure you have the right edition of the [open textbook](https://kpu.pressbooks.pub/psychmethods4e/) (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
+-  NEW: "A Student's Guide to Open Science" by Charlotte Pennington - required text
 -   "Flipped classroom" model for Intensive School (no lectures)
 -   All quizzes online, **best 5** count
 -   Half knowledge, half stats
@@ -71,7 +72,7 @@ Update dates here
 -   There are a whole set of H5P learning modules for jamovi on [Moodle](https://moodle.une.edu.au/course/view.php?id=26434&section=2) if you want them! (in the Resources section)
 
 ::: notes
-Should update this slide
+Only need to update lecture video to here 
 :::
 
 # My teaching philosophy {background-color="black" background-image="images/sailing.png"}
