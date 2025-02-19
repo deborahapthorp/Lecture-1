@@ -20,11 +20,11 @@ editor: source
 ![](images/QRcode_L1.png){fig-align="center"}
 
 ::: notes
- Hi everyone.  Welcome to Psych 422  for 2024. This is the introductory lecture, lecture number one, and I'm going to present it in three separate parts.
+ Hi everyone.  Welcome to Psych 422  for 2025. This is the introductory lecture, lecture number one, and I'm going to present it in three separate parts.
 
 Oh, just a note before I begin. These slides are actually open source, they're written in R Markdown and Quarto. And if you click on this link or if you use the QR code, you can get to the html version of the slides, which is always up to date because I upload them to GitHub whenever I change anything. 
 
-So you can follow along and click through each slide as you follow the lecture if you'd like to do it that way. But I will also provide a pdf version for those who like to print things out.  So I hope you enjoy that. 
+So you can follow along and click through each slide as you follow the lecture, if you'd like to do it that way. But I will also provide a pdf version for those who like to print things out.  So I hope you enjoy that. 
 :::
 
 ## Outline
@@ -71,7 +71,7 @@ And three of them are stats exercises, so they're also in quiz format, but you'l
 
 Mostly people do pretty well on those, so I don't want you to fret about them. They're more an exercise to make sure you keep testing your knowledge.  
 
-Then 10% is the discussion board post. Now, these are actually my favourite part of this whole unit.  You need to write about 1500 words in total  for a minimum. But most people tend to write more than that.  And each week I'll put up a prompt for people to  write about, you don't have to do it within that week, but sooner is better than later.  And I'd like you to also respond to other people's posts in that forum as well.
+Then 10% is the discussion board post. Now, these are actually my favourite part of this whole unit.  You need to write about 1500 words in total for a minimum. But most people tend to write more than that.  And each week I'll put up a prompt for people to  write about, you don't have to do it within that week, but sooner is better than later.  And I'd like you to also respond to other people's posts in that forum as well.
 
 You don't need to write on every single topic, but you need to write on at least five. There's a rubric as well, so you can look at that and make sure you are fulfilling the criteria on that. It doesn't need to be very formal. In fact, I prefer informal discussion. Just get into it - get involved -  and I think you'll find that it makes you become part of the community of 422.
 
@@ -93,9 +93,9 @@ I'll make them such that   ChatGPT would find them pretty  difficult to do.  So 
 
 :::
 
-## Readings etc.
+## Readings etc. {.smaller}
 
--   These are on the [Unit Outline](https://mylearn.une.edu.au/mod/book/view.php?id=2793718) (**please read it before posting any questions on MyLearn**) and also set out in each Topic
+-   These are on the [Unit Outline](https://mylearn.une.edu.au/mod/book/view.php?id=3141347) (**please read it before posting any questions on MyLearn**) and also set out in each Topic
 -   Textbook: [Research Methods in Psychology (4th Edition)](https://kpu.pressbooks.pub/psychmethods4e/) (open textbook)
 - Secondary text: [A Student's Guide to Open Science](https://www.amazon.com.au/Students-Guide-Open-Science/dp/0335251161)
 -   Specific chapter readings are set out for each week
@@ -120,27 +120,29 @@ All, these links are live. So they should work  in the HTML or in the  pdf as we
 
 :::
 
-## Intensive school - April 2024
+## Intensive school - April 2025
 
--   Held online from 17th - 18th April (**mandatory**)
+-   Held online from 16th - 17th April (**mandatory**)
 -   Concurrent with PSYC 421
 -   There are NO ASSESSMENTS AT INTENSIVE!
 -   Also no formal lectures - set of interactive workshops and tutorials
 -   Includes "scaffolding" workshops for assignment.
 
 ::: notes
- Okay. So the intensive school, this is in April. It's held online on Zoom from the 21st to the 22nd. And it's mandatory. You have to attend.   Obviously, it's most unfortunate if people can't attend, but because it's online, it's not that hard to attend.
+ Okay. So the intensive school, this is in April. It's held online on Zoom from the 16th to the 17th. And it's mandatory. You have to attend.   Obviously, it's most unfortunate if people can't attend, but because it's online, it's not that hard to attend.
 
- We used to have an in-person one.   And I miss that a bit, but it was expensive for people to come to Armidale and we generally had a very strong response that people would really prefer to have it on Zoom. So that makes it not particularly difficult for you to attend.  It's held concurrently with Psych 421, so 421 is on the 19th and 20th and 422 is on the 21st and  - the 22nd is actually Saturday. So just be aware of that. If you have any childcare issues or anything like that  hopefully you can get around those. That's just how they scheduled it this year, I'm not really quite sure why, but that's what happened.  There will be no assessments at the intensive, of course.
+ We used to have an in-person one.   And I miss that a bit, but it was expensive for people to come to Armidale and we generally had a very strong response that people would really prefer to have it on Zoom. So that makes it not particularly difficult for you to attend.  It's held concurrently with Psych 421, so 421 is on the 14th and 15th and 422 is on the 16th and 17th. That's right before the Easter long weekend, so just be aware of that. If you have any childcare issues or anything like that  hopefully you can get around those. That's just how they scheduled it this year, I'm not really quite sure why, but that's what happened.
+ 
+There will be no assessments at the intensive, of course.
 
- There used to be!  They used to sit you down in an exam room and make you do a multiple choice quiz. And of course the minute I took over the unit,  I cancelled that, 'cause why would you wanna do that? So there's no formal lectures either. There's a set of interactive workshops and tutorials. 
+There used to be!  They used to sit you down in an exam room and make you do a multiple choice quiz. And of course the minute I took over the unit,  I cancelled that, 'cause why would you wanna do that? So there's no formal lectures either. There's a set of interactive workshops and tutorials. 
 
-And I hope you'll find them fun and educational and they're a little bit different from what we do in the online stuff.  I want to make the most of being able to interact with you online. So we have breakout groups and that kind of thing.  We also have these scaffolding workshops for the assignment where you  do a little quick draft of your blog post assignment and then you peer review each other's drafts.
+And I hope you'll find them fun and educational and they're a little bit different from what we do in the online stuff.  I want to make the most of being able to interact with you online in real time. So we have breakout groups and that kind of thing.  We also have these scaffolding workshops for the assignment where you  do a little quick draft of your blog post assignment and then you peer review each other's drafts.
 
 Most people find that extremely constructive as well, and you tend to get really useful comments - I do read through them and people are great. So that'll help you write a better assignment, I hope. I've also slightly changed the  rubric for the assignment on the advice of my markers to make it clearer. So this year that's just very slightly different. I hope you'll find that slightly clearer.
 :::
 
-## Things to note (2024) {.smaller}
+## Things to note (2025) {.smaller}
 
 -   Make sure you have the right edition of the [open textbook](https://kpu.pressbooks.pub/psychmethods4e/) (available as a paper book on [Amazon](https://www.amazon.com.au/Research-Methods-Psychology-Rajiv-Jhangiani/dp/1085976920/) too)
 -  NEW: [A Student's Guide to Open Science](https://www.amazon.com.au/Students-Guide-Open-Science/dp/0335251161) by Charlotte Pennington - required text (but the library has it)
@@ -151,7 +153,7 @@ Most people find that extremely constructive as well, and you tend to get really
 -   There are a whole set of H5P learning modules for jamovi on [Moodle](https://moodle.une.edu.au/course/view.php?id=26434&section=2) if you want them! (in the Resources section)
 
 ::: notes
-kay, so things to note for this year.  As I said, there's a new edition of the open textbook - newish  - but it's also available - the reason I chose this one is it's available as a paper book on Amazon.  That link here is to Amazon Australia. 
+Okay, so things to note for this year.  As I said, there's a new edition of the open textbook - newish  - but it's also available - the reason I chose this one is it's available as a paper book on Amazon.  That link here is to Amazon Australia. 
 
 So you can order it as a paper book if you really want.  I don't think it takes that long to arrive because it's Amazon AU - that's 20 something bucks or something. So if you really wanna have a paper book to page through, you can totally run with that.  
 
@@ -165,9 +167,9 @@ And the other thing I really want you to know is you don't need SPSS for this co
 
 There's a couple of things that are slightly different, but I'll go through them with you today in the lecture. 
 
-And also  I've made a whole set of H5P learning modules  which are on Moodle and you can work through them. They've got little questions to test yourself. It's in the resources section. I spent quite a bit of time last year doing those, and then this year I've changed them over to a new set of exercises based on some data about people's reactions to climate change.  You can work through them many times as you like, and I hope you'll find them helpful as well. But I do feel free to use SPSS if you want.
+And also  I've made a whole set of H5P learning modules  which are on MyLearn and you can work through them. They've got little questions to test yourself. It's in the resources section. I spent quite a bit of time last year doing those, and then this year I've changed them over to a new set of exercises based on some data about people's reactions to climate change.  You can work through them many times as you like, and I hope you'll find them helpful as well. But I do feel free to use SPSS if you want.
  
- What I generally find is that people who are more uncertain about stats tend to want to stick with what they know.  And, when they eventually change over, they're like, why did I not use jamovi? It's  so much easier.  Another, good reason for using SPSS might be that your supervisor wants you to - maybe you are doing your Honours project, and your supervisor strongly recommends that you use SPSS - there may be analyses that you're doing that aren't available in jamovi, for instance.  If you're doing anything with missing data replacement, that kind of complex thing, SPSS does do a lot  more of that stuff. So there are plenty of valid reasons for using SPSS and I don't want to totally diss it, but  even if you are doing that, you might want to try jamovi anyway, because you might find that you get more of an understanding of the underlying principles behind the stats. By using a program that's somewhat simpler or slightly different, it becomes less about using  SPSS and more about actually doing statistics.  Bearing that in mind, you can even use other programs like  PSPP, or you can use JASP or if you're really nerdy, you can use R.
+ What I generally find is that people who are more uncertain about stats tend to want to stick with what they know.  And, when they eventually change over, they're like, why did I not use jamovi? It's  so much easier.  Another good reason for using SPSS might be that your supervisor wants you to - maybe you are doing your Honours project, and your supervisor strongly recommends that you use SPSS - there may be analyses that you're doing that aren't available in jamovi, for instance.  If you're doing anything with missing data replacement, that kind of complex thing, SPSS does do a lot  more of that stuff. So there are plenty of valid reasons for using SPSS and I don't want to totally diss it, but  even if you are doing that, you might want to try jamovi anyway, because you might find that you get more of an understanding of the underlying principles behind the stats. By using a program that's somewhat simpler or slightly different, it becomes less about using  SPSS and more about actually doing statistics.  Bearing that in mind, you can even use other programs like  PSPP, or you can use JASP or if you're really nerdy, you can use R.
 
 That's what I use, in fact.  But most of what I'm going to be telling you about today is jamovi.  Yeah, stick with me. 
 
