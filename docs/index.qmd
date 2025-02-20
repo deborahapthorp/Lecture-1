@@ -239,7 +239,7 @@ Also a doozy of naivety here. Slide is too wordy - revise
 
 ## BUT: James Heathers tweet
 
-![](images/heathers_tweet.png) [And a related thread here...](https://twitter.com/jamesheathers/status/1101161833514393600?s=20)
+![](images/heathers_tweet.png) [And a related thread here...](https://xcancel.com/jamesheathers/status/1101161833514393600?s=20)
 
 ## Science asks answerable questions
 
@@ -293,8 +293,8 @@ One of the problems when we try to draw understanding from published papers is t
 
 -   Psychology has long been criticised for being weak on theory
 -   See, for instance, Muthukrishna, M, and J Henrich. "[A problem in theory](https://www.nature.com/articles/s41562-018-0522-1.epdf?author_access_token=UNn5NfKkdenX2XOtRn-a89RgN0jAjWel9jnR3ZoTv0PR1n9_3i-MM3VzdUMeSGjuHL3rzkkW8mnQZYKonzAh5oUPDZHAQYa3tsgkHBp3QPi2x94zvRmVSupO1uif43JYttNHav4CunuTrACnWXGjIw==)." Nature Human Behavior (2019).
--   A really good Twitter thread on this topic - see below
--   [Eiko Fried on Twitter](https://twitter.com/EikoFried/status/1234459788744052736?s=20)
+-   A really good thread on this topic - see below
+-   [Eiko Fried on Twitter/X](https://xcancel.com/EikoFried/status/1234459788744052736?s=20)
 
 ::: notes
 So thinking back to our previous slide, the hypothesis or hypotheses you have formed should have arisen from good theories. But does psychology really have strong theories? Sometimes it has been criticised for finding effects rather than forming theories. I found a really good thread about this on Twitter this morning - here's a link if you want to follow it. But this is a bit of a distraction from my main point here, which is about the falsifiability of your theory or, more narrowly, your hypothesis.
