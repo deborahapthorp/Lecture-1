@@ -175,6 +175,16 @@ That's what I use, in fact.  But most of what I'm going to be telling you about 
 
 :::
 
+## AI use in this unit
+
+- Do NOT use ChatGPT or any other Large Language Model (LLM) to write your assignment, forum posts, or exam SAQ responses
+
+- Not only is this antithetical to learning, but it won't do a very good job
+
+- You are being encouraged to use Studiosity's new "AI feedback" service for your writing
+
+- Colour me skeptical. Interested to hear what you think but it's not optimised for blog posts
+
 # My teaching philosophy {background-color="black" background-image="images/sailing.png"}
 
 # Psychology as a science {background-color="black" background-image="images/lookingglass1.png"}
